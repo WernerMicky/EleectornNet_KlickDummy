@@ -4,5 +4,5 @@ ElectronStartSettings
 
 dotnet electronize init 
 
-start electronize with 
+start electronize with: 
 dotnet electronize init
